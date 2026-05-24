@@ -13,8 +13,3 @@ if __name__ == '__main__':
 
 
 
-""" 
-token:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXBlIjoiYWNlc3NfdG9rZW4iLCJleHAiOjE3ODAxODY2NzYsImlhdCI6MTc3OTU4MTg3Niwic3ViIjoiMTEifQ.dXEmW8f9hEANwg_dxnUNDai6BS96fr3-PGX1o9ZDKdw
-tipo:Bearer
-   
-"""
